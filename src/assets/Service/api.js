@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_url= "http://localhost:8080";
+const API_url= "https://job-portal-backend-api-p9rn.onrender.com";
 
 export const savepost = async(payload) =>{
   try{
